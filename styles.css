@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+body{
+	background-color: lightblue;
+	margin-left: 150px;
+	padding-top: 20px;
+}
